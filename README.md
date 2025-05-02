@@ -50,7 +50,7 @@
     💡 Sample Insights
   </h2>
   <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
-    <li style="margin: 8px 0;">🟢 The <strong>West</strong> region recorded the highest total sales in Q3</li>
+    <li style="margin: 8px 0;">🟢 The <strong>New York</strong> region recorded the highest total sales in Q3</li>
     <li style="margin: 8px 0;">🔵 <strong>Technology</strong> category outperformed others in terms of monthly sales trend</li>
     <li style="margin: 8px 0;">🟠 <strong>Sales peaked in November</strong>, indicating a seasonal boost</li>
   </ul>
